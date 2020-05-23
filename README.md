@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[CircleCI](https://circleci.com/gh/DimejiOladepo/Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/DimejiOladepo/Machine-Learning-Microservice-API/11/workflows/6ee6cbb2-1b6a-42f2-ad79-8b0f9134b4bc/jobs/11/steps)
 
 ## Project Overview
 
